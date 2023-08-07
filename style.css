@@ -1,0 +1,73 @@
+.margin-css{
+    margin-left: 120px;
+}
+.margin-css1{
+    margin-left: 330px;  
+}
+.width-css{
+    width: 98%;
+    border-radius: 5px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.bg-img-css{
+    background-image: url(images/banner_1.png);
+    height: 450px;
+    
+}
+.w-css{
+    width: 400px;
+    
+}
+.align-contet-css{
+    margin-left:36%;
+    padding-top: 7%;
+    
+}
+.ms-css{
+    margin-left: 70px;
+}
+.me--css{
+    margin-top: 30px;
+    margin-left: 340px;
+}
+.w-css1{
+    width: 350px;
+}
+.rounded-css1{
+    border-top-left-radius:15px ;
+    
+}
+.rounded-css{
+    border-bottom-right-radius: 15px;
+}
+.display-grid-css{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap:15px;
+}
+.margin-left-css{
+    margin-left: 425px;
+    margin-top: 4%;
+    margin-bottom: 15%;
+}
+.ms-css{
+    margin-left: 100px;
+}
+.ms-css1{
+    margin-left: 80px;
+}
+.ms-css2{
+    margin-left: 80px;
+}
+.w-css2{
+    width: 1100px;
+}
+.bg-css{
+    background-color: #f9ecc75c;
+}
+.width-css1{
+    width: 380px;
+}
